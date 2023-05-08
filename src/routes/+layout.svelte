@@ -7,7 +7,7 @@
 
 	let colors = writable([
 		{
-			color: { h: 5, s: 32, l: 48 },
+			color: { h: 240, s: 32, l: 48 },
 			name: ['primary', 'secondary', 'tertiary']
 		},
 		{ color: { h: 270, s: 2, l: 57 }, name: 'neutral' }
